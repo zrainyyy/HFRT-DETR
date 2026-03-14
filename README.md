@@ -1,6 +1,6 @@
 # HFRT-DETR: An Efficient Mobile Screen Defect Detection Network Integrating Frequency-Domain Enhancement and Latent Attention
 
-This project improves upon RT-DETR, aiming to enhance the detection accuracy and efficiency of mobile screen surface defects (such as oil stains, scratches, and blemishes).
+This project improves upon RT-DETR, aiming to enhance the detection accuracy and efficiency of mobile screen surface defects (such as oil, scratches, and stains).
 
 ## 📊 Dataset
 This project uses the augmented PKU-Market-Phone dataset for training and testing.
