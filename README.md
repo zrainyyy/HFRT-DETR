@@ -1,11 +1,11 @@
 # HFRT-DETR: An Efficient Mobile Screen Defect Detection Network Integrating Frequency-Domain Enhancement and Latent Attention
 
-This project improves upon RT-DETR, aiming to enhance the detection accuracy and efficiency of mobile screen surface defects (such as oil, scratches, and stains).
+This project improves upon RT-DETR, aiming to enhance the detection accuracy and efficiency of mobile screen surface defects (such as oil stains, scratches, and stains).
 
 ## 📊 Dataset
-This project uses the augmented PKU-Market-Phone dataset for training and testing.
+This project uses the augmented PKU-Market-Phone dataset for training and testing. The augmented dataset contains 5600 images, adding various mixed defect types to the original dataset. The images are uniformly 640×640 pixels and labeled in YOLO format using labelimg. They are divided into training, testing, and validation sets in a 7:2:1 ratio.
 
-Due to the large size of the dataset, the GitHub repository only contains download links or configuration files.
+Due to the large dataset size, the GitHub repository only contains download links or configuration files.
 
 Category Tags:
 
